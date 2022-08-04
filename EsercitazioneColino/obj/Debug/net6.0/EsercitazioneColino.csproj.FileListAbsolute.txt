@@ -1,0 +1,15 @@
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\bin\Debug\net6.0\EsercitazioneColino.exe
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\bin\Debug\net6.0\EsercitazioneColino.deps.json
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\bin\Debug\net6.0\EsercitazioneColino.runtimeconfig.json
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\bin\Debug\net6.0\EsercitazioneColino.dll
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\bin\Debug\net6.0\EsercitazioneColino.pdb
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\obj\Debug\net6.0\EsercitazioneColino.csproj.AssemblyReference.cache
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\obj\Debug\net6.0\EsercitazioneColino.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\obj\Debug\net6.0\EsercitazioneColino.AssemblyInfoInputs.cache
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\obj\Debug\net6.0\EsercitazioneColino.AssemblyInfo.cs
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\obj\Debug\net6.0\EsercitazioneColino.csproj.CoreCompileInputs.cache
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\obj\Debug\net6.0\EsercitazioneColino.dll
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\obj\Debug\net6.0\refint\EsercitazioneColino.dll
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\obj\Debug\net6.0\EsercitazioneColino.pdb
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\obj\Debug\net6.0\EsercitazioneColino.genruntimeconfig.cache
+D:\Aesys\LearningProjects\EsercitazioneColino\EsercitazioneColino\obj\Debug\net6.0\ref\EsercitazioneColino.dll
