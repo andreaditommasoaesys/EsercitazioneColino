@@ -36,11 +36,12 @@
         {
             bool control = false;
             string path = @"..\OperazioniAPI.txt";
-            StreamWriter sw = File.CreateText(path);
+            StreamWriter sw = new StreamWriter(path); 
             for (int i = 0; i < rownumber; i++)
             {
                 sw.WriteLine(OperazioneRandom());
             }
+            sw.Close();
             return control;
         }
         public static string OperazioneRandom()
