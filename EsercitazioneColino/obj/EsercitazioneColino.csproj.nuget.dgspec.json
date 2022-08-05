@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AndreaDiTommaso\\Documents\\GitHub\\EsercitazioneColino\\EsercitazioneColino.csproj": {}
+    "D:\\Aesys\\LearningProjects\\EsercitazioneColino\\EsercitazioneColino\\EsercitazioneColino.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AndreaDiTommaso\\Documents\\GitHub\\EsercitazioneColino\\EsercitazioneColino.csproj": {
+    "D:\\Aesys\\LearningProjects\\EsercitazioneColino\\EsercitazioneColino\\EsercitazioneColino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AndreaDiTommaso\\Documents\\GitHub\\EsercitazioneColino\\EsercitazioneColino.csproj",
+        "projectUniqueName": "D:\\Aesys\\LearningProjects\\EsercitazioneColino\\EsercitazioneColino\\EsercitazioneColino.csproj",
         "projectName": "EsercitazioneColino",
-        "projectPath": "C:\\Users\\AndreaDiTommaso\\Documents\\GitHub\\EsercitazioneColino\\EsercitazioneColino.csproj",
-        "packagesPath": "C:\\Users\\AndreaDiTommaso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AndreaDiTommaso\\Documents\\GitHub\\EsercitazioneColino\\obj\\",
+        "projectPath": "D:\\Aesys\\LearningProjects\\EsercitazioneColino\\EsercitazioneColino\\EsercitazioneColino.csproj",
+        "packagesPath": "C:\\Users\\SimoneParticelli\\.nuget\\packages\\",
+        "outputPath": "D:\\Aesys\\LearningProjects\\EsercitazioneColino\\EsercitazioneColino\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AndreaDiTommaso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SimoneParticelli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

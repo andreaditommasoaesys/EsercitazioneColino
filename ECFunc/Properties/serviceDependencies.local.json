@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights.sdk"
+    },
+    "storage1": {
+      "secretStore": null,
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/esercitazionecolinosa",
+      "type": "storage.azure",
+      "connectionId": "ConnectionString",
+      "dynamicId": null
+    }
+  }
+}
