@@ -2,6 +2,14 @@
 {
     internal class Program
     {
+        enum Operazione
+        {
+            DELETE,
+            GET,
+            POST,
+            UPDATE
+        }
+
         static void Main(string[] args)
         {
             int rowNumber;
@@ -20,7 +28,7 @@
                 {
                     control = false;
                 }
-                
+
             }
             Console.ReadKey();
         }
@@ -29,7 +37,20 @@
             bool control = false;
             string path = @"..\OperazioniAPI.txt";
             StreamWriter sw = File.CreateText(path);
+            for (int i = 0; i < rownumber; i++)
+            {
+                sw.WriteLine(OperazioneRandom());
+            }
             return control;
+        }
+        public static string OperazioneRandom()
+        {
+            Random random = new Random();
+            Array values = Enum.GetValues(typeof(Operazione));
+            string randomstring = values.GetValue(random.Next(values.Length)).ToString();
+            Console.WriteLine(randomstring);
+            return randomstring;
+
         }
 
     }
