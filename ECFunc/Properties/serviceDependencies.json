@@ -5,7 +5,11 @@
     },
     "storage1": {
       "type": "storage",
-      "connectionId": "ConnectionString",
+      "connectionId": "AzureWebJobsStorage"
+    },
+    "storage2": {
+      "type": "storage",
+      "connectionId": "DefaultEndpointsProtocol=https;AccountName=esercitazionecolinosa;AccountKey=z4VKSverUPASVJtVuOxEjSFBffyu6NT/E+QXW8W+X2PbKUOs6PJ4VlISgU0TI5ne/ZVEQaTD/VNn+AStMLRVUA==;EndpointSuffix=core.windows.net",
       "dynamicId": null
     }
   }
